@@ -6,7 +6,7 @@ You can find the dashboard here: [Daily_Routine_Viz.pbix](Daily_Routine_Viz.pbix
 ## Skills and tools showcased
 - **Excel** for collecting and maintaining data, And also to layout the plan on how to correlate and put the data collected to use by making a hash for the dashboard layout.
 ![alt text](images/Excel_data_view.png)
-- **Power Query** was used to process the ETA for the data collected to be able to manipulate it and use it properly within the dashboard for measuares and compares.
+- **Power Query** was used to process the ETL (Extract/Transform/Load) for the data collected to be able to manipulate it and use it properly within the dashboard for measuares and compares.
 ![alt text](images/Power_query_ETL.png)
 - **DAX Measures** by using the embeded DAX in the power-query/power-bi app, I was able to benefit from it to make measures to calculate various data types to make correlations and help me visualize it on my charts and dashboard.
 ![alt text](images/DAX_Measures.png)
